@@ -1,0 +1,43 @@
+Hello, I'm Yohannes! ??
+
+Engineering Graduate | Aspiring Data Analyst | AI & Data Science Enthusiast
+
+Welcome to my GitHub profile!
+
+I am an engineering graduate from JIT, passionate about technology, Artificial Intelligence, and Data Science.
+
+I am building practical skills through hands-on projects and continuous learning.
+
+My Skills & Learning
+
+Python Programming
+
+Data Analysis with Pandas
+
+Data Visualization with Matplotlib
+
+Data Cleaning
+
+Artificial Intelligence Fundamentals
+
+Certificates
+
+Ethiopia AI Fundamentals Certificate
+
+Udacity Certificates
+
+My Projects
+
+Sales Data Analysis — Analyzing sample shop sales using Python, Pandas, and Matplotlib.
+
+My Goals
+
+Improve my Python and Data Science skills.
+
+Build practical AI projects.
+
+Help businesses understand their data.
+
+Grow as a freelance Data Analyst.
+
+Thank you for visiting my profile!
